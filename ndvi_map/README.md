@@ -1,0 +1,1 @@
+# Creating an NDVI Map in ArcGIS
