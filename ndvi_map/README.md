@@ -41,6 +41,7 @@ Tips:
 -	Use descriptive file names for outputs to maintain organization.
 
 
-# Results
-![Kwahu South](https://github.com/user-attachments/assets/5c5c6324-1036-4482-a8f8-8724f5e2679d)
+# Result
+![Kwahu South NDVI Map - Update](https://github.com/user-attachments/assets/a2fe8565-8d9b-495c-a700-f2f098595920)
+
 
